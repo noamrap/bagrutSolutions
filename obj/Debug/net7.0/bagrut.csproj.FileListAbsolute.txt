@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\bagrut\bin\Debug\net7.0\bagrut.exe
+C:\Users\USER\Desktop\bagrut\bin\Debug\net7.0\bagrut.deps.json
+C:\Users\USER\Desktop\bagrut\bin\Debug\net7.0\bagrut.runtimeconfig.json
+C:\Users\USER\Desktop\bagrut\bin\Debug\net7.0\bagrut.dll
+C:\Users\USER\Desktop\bagrut\bin\Debug\net7.0\bagrut.pdb
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.AssemblyInfo.cs
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.dll
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\refint\bagrut.dll
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.pdb
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\bagrut.genruntimeconfig.cache
+C:\Users\USER\Desktop\bagrut\obj\Debug\net7.0\ref\bagrut.dll
